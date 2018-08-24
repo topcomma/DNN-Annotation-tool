@@ -1,7 +1,7 @@
  
 
 # DNN-Annotation-tool
-Deep learning dection and segmentation annotation tools
+Deep learning detection and segmentation annotation tools
 
 
 
